@@ -6,7 +6,7 @@ namespace vadsomhelst
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Testar")
+            Console.WriteLine("Testar");
         }
     }
 }
